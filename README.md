@@ -1,5 +1,5 @@
 <img src="https://octodex.github.com/images/minion.png" style="max-width:100%; height:150px"/>
-### Hi there, I'm [Shahidul Islam] (https://abdullahjisat.github.io) 👋
+### Hi there, I'm [Shahidul Islam] (https://abdullahjisat.github.io/me) 👋
 
 I am a Software Executive 😎 at [KDS Group](https://kytwotone.com), Chattogram, Bangladesh. Apart from that I am FullStack Developer and contributing to open source.
 
