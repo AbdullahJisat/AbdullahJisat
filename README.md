@@ -5,11 +5,7 @@ I am a Software Executive 😎 at [KDS Group](https://kytwotone.com), Chattogram
 
 **My Interest On**:
 - ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-
-- ![Phyton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
  **I am open to**:
@@ -18,13 +14,13 @@ I am a Software Executive 😎 at [KDS Group](https://kytwotone.com), Chattogram
 - research internships
 
 **Recent Projects**:
+- **August 2023** [Hongdat Furniture](https://hongdatfurniture.com/ "Hongdat Furniture").
 - **August 2022** [Mim Drinking Water](http://joyfoodbd.com/ "Mim Drinking Water") - Admin, Dealer Accounting System.
 - **April 2022**: [Real State Project](https://www.vvmethod.com/) - Project Design Selling System
 
 ## Skills:
 
 #### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
